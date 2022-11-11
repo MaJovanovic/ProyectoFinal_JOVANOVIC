@@ -1,0 +1,51 @@
+    [{
+    "codigo":0,
+    "nombre": "Gato papel",
+    "tag": "gato 1",
+    "precio": 4990,
+    "inCart": 0,
+    "img": "https://media.istockphoto.com/id/1352219479/es/foto/juguet%C3%B3n-gato-brit%C3%A1nico-de-pelo-corto-sacando-la-cabeza-del-papel-amarillo-rasgado.jpg?s=612x612&w=is&k=20&c=uYmJz-nScbYvIZMs8X7gFMJc-egVx0Ex6pibP_LoZrI="
+},
+{
+    "codigo":1,
+    "nombre": "Gato brit",
+    "tag": "gato 2",
+    "precio": 600,
+    "inCart": 0,
+    "img": "https://media.istockphoto.com/id/1304081777/es/foto/gato-brit%C3%A1nico-de-pelo-corto.jpg?s=612x612&w=is&k=20&c=8qXTtJHy3HJjYV1BI8qS4kY4gbFZBajSeglRU0c7rik="
+},
+{
+    "codigo":2,
+    "nombre": "Gato ojos grandes",
+    "tag": "gato 3",
+    "precio": 2490,
+    "inCart": 0,
+    "img":"https://media.istockphoto.com/id/1198428198/es/foto/gato-de-ojos-grandes-travieso-obeso-detr%C3%A1s-del-escritorio-con-sombrero-rojo-color-gris.jpg?s=612x612&w=is&k=20&c=qEcqO4BjB_t6BUEU-8IDd363yDfazuMjyPmtbho0iNQ="
+},
+{
+    "codigo":3,
+    "nombre": "Gato obeso",
+    "tag": "gato 4",
+    "precio": 8900,
+    "inCart": 0,
+    "img":"https://media.istockphoto.com/id/1198426816/es/foto/gato-obeso-comiendo-piruleta-de-color-detr%C3%A1s-del-escritorio-grey-brit%C3%A1nico-especie-gato-de-pelo.jpg?s=612x612&w=is&k=20&c=6ScT_Vo37YuoLkyQjpKUTM9tO26ljCMwyyfZb222Cqo="
+},
+{
+    "codigo":4,
+    "nombre": "Gato enojado",
+    "tag": "gato 5",
+    "precio": 3990,
+    "inCart": 0,
+    "img":"https://media.istockphoto.com/id/1198440647/es/foto/gato-de-ojos-grandes-travieso-obeso-detr%C3%A1s-del-escritorio-con-sombrero-rojo-color-gris.jpg?s=612x612&w=is&k=20&c=RupZDljEWfJu7xV8udsg3hT8vEZukdTBAMVi9rBvd4I="
+},
+{
+    "codigo":5,
+    "nombre": "Gato con hambre",
+    "tag": "gato 6",
+    "precio": 7590,
+    "inCart": 0,
+    "img":"https://media.istockphoto.com/id/1345217992/es/foto/gato-hambriento-haciendo-cara-divertida-lamiendo-labios-sobre-fondo-amarillo.jpg?s=612x612&w=is&k=20&c=d9mq2TYR2WnZye7uXXESechFc3rKwV9MSaGKZySzwPI="
+}
+
+
+]
